@@ -24,4 +24,4 @@ By achieving this, the project aims to:
 •	Assist decision-makers in educational institutions to implement targeted actions.
 •	Save time and reduce manual effort involved in analyzing open-ended feedback.
 This system will serve as a valuable tool for continuous quality improvement in colleges and universities.
-![Uploading image.png…]()
+
